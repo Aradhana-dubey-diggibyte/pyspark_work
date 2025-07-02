@@ -1,0 +1,8 @@
+# PySpark DataFrame Practice
+
+This project contains basic PySpark programs to practice:
+
+- RDD transformations
+- RDD actions
+- PySpark SQL
+- General DataFrame functions (select, filter, count, etc.)
